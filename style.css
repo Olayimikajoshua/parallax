@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#section1 {
+    background-image: url(/images/dynamic.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.cardbox {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+#section2 {
+    background-image: url(/images/tunnel.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.cardbox2 {
+    background-color: lightseagreen;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+#section3 {
+    background-image: url(/images/dynama.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.cardbox3 {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+#section4 {
+    background-image: url(/images/dynamo.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
