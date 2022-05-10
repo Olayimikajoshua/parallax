@@ -4,7 +4,7 @@
 }
 
 #section1 {
-    background-image: url(/images/dynamic.jpg);
+    background-image: url("https://wavyyjay.github.io/parallax/images/dynamic.jpg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -25,11 +25,11 @@
     background-color: black;
     text-align: center;
     color: white;
-    padding: 50px;
+    padding: 40px;
 }
 
 #section2 {
-    background-image: url(/images/tunnel.jpg);
+    background-image: url("https://wavyyjay.github.io/parallax/images/tunnel.jpg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -47,7 +47,7 @@
 }
 
 #section3 {
-    background-image: url(/images/dynama.jpg);
+    background-image: url("https://wavyyjay.github.io/parallax/images/dynama.jpg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -65,7 +65,7 @@
 }
 
 #section4 {
-    background-image: url(/images/dynamo.jpg);
+    background-image: url("https://wavyyjay.github.io/parallax/images/dynamo.jpg");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
